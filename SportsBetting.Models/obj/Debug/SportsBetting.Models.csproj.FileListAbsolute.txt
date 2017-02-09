@@ -1,0 +1,12 @@
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\SportsBetting.Models.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\SportsBetting.Models.pdb
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\obj\Debug\SportsBetting.Models.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\obj\Debug\SportsBetting.Models.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\obj\Debug\SportsBetting.Models.pdb
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\SportsBetting.Models.dll.config
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\EntityFramework.Extended.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Models\bin\Debug\EntityFramework.Extended.xml

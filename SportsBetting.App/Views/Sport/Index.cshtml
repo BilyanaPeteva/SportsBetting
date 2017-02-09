@@ -1,0 +1,71 @@
+﻿@model IEnumerable<SportsBetting.Models.Match>
+
+@{
+    ViewBag.Title = "Sports Bettings";
+}
+
+<h2>Available bets for the next 24 hours</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="outer table">
+   
+    @foreach (var match in Model)
+    {
+        <tr>
+            <th>Event Name</th>
+            <th>Match name</th>
+            <th>Start date</th>
+            <th>Match type</th>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => match.SportEvent.EventName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => match.MatchName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => match.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => match.MatchType)
+            </td>
+        </tr>
+
+        foreach (var bet in match.Bets)
+        {
+            if (bet.Odds.Count != 0)
+            {
+                <tr>
+                    <th>
+                        Name of the bet
+                    </th>
+                    <td>
+                        @Html.DisplayFor(modelItem => bet.BetName)
+                    </td>
+                </tr>
+            }
+
+            foreach (var odd in bet.Odds)
+            {
+                <td>
+                    <table class="inner table">
+                        <tr>
+                            <th>Odd name</th>
+                            <th>Odd value</th>
+                            <th>Special bet value</th>
+                        </tr>
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => odd.OddName)</td>
+                            <td>@Html.DisplayFor(modelItem => odd.OddValue)</td>
+                            <td>@Html.DisplayFor(modelItem => odd.SpecialBetValue)</td>
+                        </tr>
+                    </table>
+                </td>
+            }
+        }
+    }
+</table>

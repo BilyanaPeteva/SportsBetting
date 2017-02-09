@@ -1,0 +1,16 @@
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\SportsBetting.Data.dll.config
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\SportsBetting.Data.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\SportsBetting.Data.pdb
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\SportsBetting.Models.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\SportsBetting.Models.pdb
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\obj\Debug\SportsBetting.Data.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\obj\Debug\SportsBetting.Data.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\obj\Debug\SportsBetting.Data.pdb
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\obj\Debug\SportsBetting.Data.Migrations.InitialCreate.resources
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\obj\Debug\SportsBetting.Data.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\EntityFramework.Extended.dll
+D:\Visual Studio 2013\ASP.NET\SportsBetting\SportsBetting.Data\bin\Debug\EntityFramework.Extended.xml
